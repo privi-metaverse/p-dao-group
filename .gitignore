@@ -1,0 +1,4 @@
+# The utils
+build
+node_modules
+secret.json
